@@ -1,4 +1,4 @@
-# Projeto: Perfil Rápido 🚀
+# Fast-Profile
 
 Atividade Somativa - Desenvolvimento Mobile (20/03/2026)
 
